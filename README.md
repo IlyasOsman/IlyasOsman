@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Ilyas Osman
 
-[![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasosman)](https://github.com/anuraghazra/github-readme-stats)
+<img width='47%' src='https://github-readme-stats.vercel.app/api?username=ilyasosman'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasosman&layout=compact'>
