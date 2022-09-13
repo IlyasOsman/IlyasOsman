@@ -69,5 +69,5 @@
 
 <br/>
 <br/>
-<small>iOs_man</small>
+<small align='right'>iOs_man</small>
 
