@@ -36,7 +36,7 @@
 
 ## 📊 My Github Stats
 <br/>
-<a href="https://wakatime.com/@a8b549ae-57cf-4e32-9e63-83c23ce609af"><img src="https://wakatime.com/badge/user/a8b549ae-57cf-4e32-9e63-83c23ce609af.svg" alt="Total time coded since Sep 12 2022" /></a>
+
 
   <br/>
     <a href="https://github.com/ilyasosman/github-readme-stats"><img width="47%" alt="Ilyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ilyasosman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
