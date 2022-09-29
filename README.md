@@ -71,5 +71,4 @@
 
 <br/>
 <br/>
-<p align='right'><em>iOs_man</em></p>
 
