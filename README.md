@@ -23,6 +23,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bash.png"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
+     <a href="https://ruby-doc.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/> </a>
 </p>
 
 ##
