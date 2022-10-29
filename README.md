@@ -60,8 +60,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ilyas-ali-74aa031b7"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/iOs__man"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 </p>
 
 ## Profile Views and Followers
