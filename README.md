@@ -34,7 +34,7 @@
 
 <p align="center">
     <a href="https://github.com/ilyasosman/github-readme-streak-stats">
-        <img title="🔥" alt="Ilyas Ali's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasosman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥" alt="Ilyas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasosman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -43,6 +43,9 @@
 <a href="https://wakatime.com/@a8b549ae-57cf-4e32-9e63-83c23ce609af"><img src="https://wakatime.com/badge/user/a8b549ae-57cf-4e32-9e63-83c23ce609af.svg" alt="Total time coded since Sep 12 2022" /></a>
 
   <br/>
+  
+  
+  <!--
     <a href="https://github.com/ilyasosman/github-readme-stats"><img width="47%" height="200px" alt="Ilyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ilyasosman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ilyasosman/github-readme-stats"><img width="47%" height="200px" alt="ilyas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasosman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -54,16 +57,16 @@
 
 [![Ilyas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ilyasosman&theme=react-dark)](https://github.com/ilyasosman/github-readme-activity-graph)
 
-<br/>
+   --!>
 
-## Connect with me:
+ Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ilyasaliosman"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/IlyasAli_"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
 </p>
 
-## Profile Views and Followers
+Profile Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ilyasosman">
 </a>
