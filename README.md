@@ -63,7 +63,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ilyasaliosman"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/IlyasAli_"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
+<a href = "https://twitter.com/iosmanG"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
 </p>
 
 Profile Views and Followers
