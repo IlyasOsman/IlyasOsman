@@ -37,6 +37,8 @@
     </a>
 </p>
 
+<!--
+
 ## 📊 My Github Stats
 <br/>
 <a href="https://wakatime.com/@a8b549ae-57cf-4e32-9e63-83c23ce609af"><img src="https://wakatime.com/badge/user/a8b549ae-57cf-4e32-9e63-83c23ce609af.svg" alt="Total time coded since Sep 12 2022" /></a>
@@ -55,6 +57,7 @@
 
 [![Ilyas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ilyasosman&theme=react-dark)](https://github.com/ilyasosman/github-readme-activity-graph)
 
+--!>
 
  Connect with me:
 <p align="left">
