@@ -44,8 +44,7 @@
 <a href="https://wakatime.com/@a8b549ae-57cf-4e32-9e63-83c23ce609af"><img src="https://wakatime.com/badge/user/a8b549ae-57cf-4e32-9e63-83c23ce609af.svg" alt="Total time coded since Sep 12 2022" /></a>
 
   <br/>
-  
-<!--
+
 <a href="https://github.com/ilyasosman/github-readme-stats"><img width="47%" height="200px" alt="Ilyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ilyasosman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ilyasosman/github-readme-stats"><img width="47%" height="200px" alt="ilyas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasosman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -57,7 +56,7 @@
 
 [![Ilyas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ilyasosman&theme=react-dark)](https://github.com/ilyasosman/github-readme-activity-graph)
 
---!>
+
 
  Connect with me:
 <p align="left">
