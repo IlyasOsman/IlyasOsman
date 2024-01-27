@@ -3,7 +3,7 @@
 <br/>
 
 ## <h4 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <em>ILYAS</em></h4>
-<p align="center"><em>A passionate Full-stack developer</em></p>
+<p align="center"><em>Full-stack developer</em></p>
 
 
 ## 🙋‍♂️ About Me
@@ -24,7 +24,8 @@
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://ruby-doc.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/> </a>
     <a href="https://cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-     <a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-shadow-tal-revivo.png"> </a>
+     <a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-shadow-tal-revivo.png"> 
+     </a>
 </p>
 
 ##
