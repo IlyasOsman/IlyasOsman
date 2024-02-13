@@ -58,10 +58,6 @@
 <br/>
 <br />
 
-[![Ilyas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ilyasosman&theme=react-dark)](https://github.com/ilyasosman/github-readme-activity-graph)
-
-
-
  Connect with me:
 <p align="left">
 
