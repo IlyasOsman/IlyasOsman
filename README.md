@@ -33,9 +33,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/ilyasosman/github-readme-streak-stats">
         <img title="🔥" alt="Ilyas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyasosman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
 </p>
 
 
